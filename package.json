@@ -1,0 +1,28 @@
+{
+	"name": "underscore.mixinTemplate",
+	"version": "1.0.0",
+	"description": "Simple underscore.js mixin template with CommonJS and AMD support.",
+	"homepage": "https://github.com/michael-lawrence/underscore.mixinTemplate",
+	"contributors": [
+		"Michael Lawrence <mike@pandemicode.com> (http://pandemicode.com/)"
+	],
+	"keywords": [
+		"underscore",
+		"plugin",
+		"mixin"
+	],
+	"main": "./underscore.mixinTemplate",
+	"dependencies": {
+		"underscore" : "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/michael-lawrence/underscore.mixinTemplate.git"
+	},
+	"bugs": {
+		"url": "https://github.com/michael-lawrence/underscore.mixinTemplate/issues"
+	},
+	"licenses" : [
+		{ "type" : "MIT" }
+	]
+}
